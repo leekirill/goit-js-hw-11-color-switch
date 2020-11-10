@@ -1,0 +1,2 @@
+body{display:block;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}button:first-child{background-color:green}button:first-child,button:nth-child(2){padding:17px 50px;font-size:23px;margin-right:20px;border:none;border-radius:7px;color:#fff}button:nth-child(2){background-color:red}button:hover{cursor:pointer}button:disabled,button:hover{background-color:rgba(0,0,0,.5)}button:disabled{cursor:auto;color:#aaa}
+/*# sourceMappingURL=/goit-js-hw-11-color-switch/style.ef5b9903.css.map */
